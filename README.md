@@ -87,3 +87,40 @@ tCO2e/annum with the average plant load factor of 20.80%.. This annual average n
 generation and annual average GHG emission reductions are with application of degradation factor
 of 0.70% from second year.
 _______________________
+ISSUANCE DATE: 19/09/2024
+
+QTY: 470579
+
+MP-01 PERIOD: 01/11/2019-31/12/2023
+_____________
+Serial Number: 0001-000001-004100-UCR-CoU-IN-436-01112019-31122019
+
+Vintage Year: 2019
+
+Quantity: 4100
+___________
+Serial Number: 0001-004101-092111-UCR-CoU-IN-436-01012020-31122020
+
+Vintage Year: 2020
+
+Quantity: 88011
+_____________
+Serial Number: 0001-092112-186494-UCR-CoU-IN-436-01012021-31122021
+
+Vintage Year: 2021
+
+Quantity: 94383
+______________
+Serial Number: 0001-186495-314516-UCR-CoU-IN-436-01012022-31122022
+
+Vintage Year: 2022
+
+Quantity: 128022
+_____________
+Serial Number: 0001-314517-470579-UCR-CoU-IN-436-01012023-31122023
+
+Vintage Year: 2023
+
+Quantity: 156063
+_____________
+
