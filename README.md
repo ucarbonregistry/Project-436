@@ -17,7 +17,25 @@ Renewable Sources)
 An ex ante estimate is 2,11,361 CoUs
 (2,11,361) tCO2eq)
 
-_______________
+Plant Capacity (MW) /Geo co-ordinates of Location
+____________
+20/ 12.959564˚ N 78.374048˚E
+_____________
+20/ 12.959564˚ N 78.374048˚E
+____________
+20 /13.513536˚ N 78.099834˚E
+__________
+20/ 12.101068˚ N 77.3296˚ E
+___________
+10 /13.272972 ˚N 76.340938˚E
+_________
+05 /13.513480 ˚N 78.100278˚E
+_________
+20 /14.822725˚N 75.498980˚E
+____________
+20 / 14.989319˚N 75.316861˚E
+_____________
+
 SECTION A. Description of project activity
 A.1. Purpose and general description of Carbon offset Unit (CoU) project activity >>
 The project activity titled ,135 MW Solar Power Plants in Karnataka M/s Asian Fab Tec Limited.
