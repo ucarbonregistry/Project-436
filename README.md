@@ -123,4 +123,15 @@ Vintage Year: 2023
 
 Quantity: 156063
 _____________
+ISSUANCE DATE: 27/05/2024
 
+QTY: 120334
+
+MP-02 PERIOD: 01/01/2024-31/12/2024
+_______________
+Serial Number: 0002-470580-590913-UCR-CoU-IN-436-01012024-31122024
+
+Vintage Year: 2024
+
+Quantity: 120334
+_________________
